@@ -1,4 +1,4 @@
-# Discovering Distribution Shift using Latent Representations
+# Discovering Distribution Shifts using Latent Representations
 
 ## Abstract
 
