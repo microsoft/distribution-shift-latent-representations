@@ -23,13 +23,13 @@ Results on real-world, WILDS distribution shift datasets. Modalities include bio
 
 ### Set up environment:
 ```
-cd distribution-shift-latent-embeddings 
+cd distribution-shift-latent-representations
 source setup_env.sh
 ```
 
 ### Download embedding datasets:
 Embedding datasets can be found in this [public drive](https://drive.google.com/drive/folders/1PsUWh9suYZecvqv1jpcY9rzFzNYDFAHd).
-Store in root repo, such that files exist as `distribution-shift-latent-embeddings/embeddings/{mnist,wilds}/*.pkl`.
+Store in root repo, such that files exist as `distribution-shift-latent-representations/embeddings/{mnist,wilds}/*.pkl`.
 
 
 ## Run Experiments and Ablations
@@ -48,4 +48,5 @@ cd demos
 
 ---
 
-Trademarks This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft’s Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party’s policies.
+Trademarks
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft’s Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party’s policies.
